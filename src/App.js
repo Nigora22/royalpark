@@ -112,7 +112,7 @@ const Example = (props) => {
           brands to stand out from the crowd. Content marketing remains a key
           way for hotels to do this.
         </p>
-        <Container>
+        <Container className="clas">
           <Row xs="6">
             <Col className="card">
               <img src={img2} alt="" className="icon" />
