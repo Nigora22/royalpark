@@ -119,17 +119,17 @@ const Example = (props) => {
               <p className="fw-bold fs-3">Easy booking </p>
               <p>The booking process should include minimal steps.</p>
             </Col>
-            <Col className="card">
+            <Col className="card1">
               <img src={img3} alt="" className="icon" />
               <p className="fw-bold fs-3">Easy booking </p>
               <p>The booking process should include minimal steps.</p>
             </Col>
-            <Col className="card">
+            <Col className="card2">
               <img src={img4} alt="" className="icon" />
               <p className="fw-bold fs-3">Easy booking </p>
               <p>The booking process should include minimal steps.</p>
             </Col>
-            <Col className="card">
+            <Col className="card3">
               <img src={img5} alt="" className="icon" />
               <p className="fw-bold fs-3">Easy booking </p>
               <p>The booking process should include minimal steps.</p>
